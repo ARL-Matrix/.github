@@ -2,7 +2,7 @@
 
 ---
 
-![ARL Matrix Banner](./assets/ARLBanner)
+![ARL Matrix Banner](./ARLBanner.png)
 
 Comprehensive digital solutions crafted with precision, powered by enterprise-grade technology.
 
