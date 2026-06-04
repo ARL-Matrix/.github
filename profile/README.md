@@ -4,7 +4,9 @@
 
 ![ARL Matrix Banner](./ARLBanner.png)
 
-Comprehensive digital solutions crafted with precision, powered by enterprise-grade technology.
+<p align="center">
+  <b>Comprehensive digital solutions crafted with precision, powered by enterprise-grade technology.</b>
+</p>
 
 ---
 
